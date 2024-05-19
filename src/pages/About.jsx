@@ -10,7 +10,8 @@ const About=()=>{
         <Container style={{minHeight:"80vh"}}>
             <Row className="shadow mt-3">
                 <Col>
-                    <h1 style={{fontFamily:"'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",backgroundColor:"rgb(124, 148, 167)"}} className="text-center mt-3">About Us</h1>  
+                    <h1 style={{fontFamily:"'Segoe UI', Tahoma, Geneva, Verdana, sans-serif", color: "white",background: "linear-gradient(to right bottom, #2e3192, #00aeed)",
+            filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#2e3192', endColorstr='#00aeed', GradientType=1)"}} className="text-center mt-3">About Us</h1>  
                     <p className="aboutmatter">
 
 Welcome to the heart of Placement Buddy! We're a passionate team of developers and enthusiasts dedicated to bringing you a reliable and user-friendly platform for exploring placement information. Here's a bit about who we are and what drives us:

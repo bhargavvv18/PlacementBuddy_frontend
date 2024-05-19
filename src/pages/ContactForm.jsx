@@ -34,7 +34,8 @@ const ContactForm = () => {
     <NavBar />  
     
     <Container style={{background:"rgb(245, 247, 248)"}} className='shadow mb-5 mt-4'>
-    <h1 style={{background:"rgb(124, 148, 167)"}} className='text-center my-3'>Contact Us</h1>
+    <h1 style={{ color: "white",background: "linear-gradient(to right bottom, #2e3192, #00aeed)",
+            filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#2e3192', endColorstr='#00aeed', GradientType=1)"}} className='text-center my-3'>Contact Us</h1>
       <Container className='text-center p-2 mb-3 mt-2'>
         <Form onSubmit={handleSubmit}>
           <Form.Group className='my-3' controlId="name">
