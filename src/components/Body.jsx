@@ -8,7 +8,7 @@ const Body=()=>{
             <Container fluid="md">
                 <Row className="shadow mt-2 bg-white">
                     <Col>
-                        <img className="py-2" src="https://www.sastra.edu/images/sastra/SASTRA_Slides.jpg" alt="flag" />
+                        <img className="py-2" src="https://www.sastra.edu/images/sastra/SASTRA_Slidess.jpg" alt="flag" />
                     </Col>
                 </Row>
                 <Row className="shadow mt-2 border border-white">
